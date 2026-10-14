@@ -1,14 +1,6 @@
 # Mise en place d'un service de VoIP : cas d'Asterisk
 
-**Projet — 2INF1521 : Réseaux Mobiles**
-Licence Professionnelle, Systèmes et Réseaux Informatiques — Sciences et Technologies
-
-**Étudiants :** AKAMA Kodjovi Jean-Hugues · TSIKPLONOU Ulrich Eugène Kékéli
-**Chargé du cours :** Dr MAO
-**Année universitaire :** 2024-2025
-
 ---
-
 ## Sommaire
 
 1. [Objectif général](#objectif-général)
@@ -373,11 +365,3 @@ Dans le terminal Asterisk, les journaux confirment que l'appel s'est correctemen
 <p align="center"><img src="images/image29.png" width="600"><br><em>Figure 26 — Journal de vérification de l'appel (bascule sur répondeur)</em></p>
 
 Ce test conclut la phase de validation du serveur Asterisk.
-
-## Conclusion
-
-La mise en place d'un service de VoIP avec **Asterisk** offre une solution flexible et économique pour les communications d'entreprise. Avec une configuration appropriée, Asterisk répond à une grande variété de besoins en téléphonie, tout en offrant des fonctionnalités avancées telles que la messagerie vocale, les conférences et l'intégration avec d'autres systèmes.
-
----
-
-*Documentation générée à partir du rapport de projet 2INF1521 — Réseaux Mobiles.*
